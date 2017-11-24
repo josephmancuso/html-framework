@@ -12,10 +12,11 @@ Currently there is only 1 module: the `menu` module. This module renders a boots
 
 ##### Options:
 Options are simply elements inside the `menu` module
-| Element       | Available Attributes | Description
-| ------------- |-------------| ------------ |
-| item          | `link`      | renders an item inside the navbar    
-| right         | none        | renders items on the right side of the navbar 
+
+| First Header  | Second Header | Description
+| ------------- | ------------- | -----------
+| item          | `link`        | renders an item inside the navbar
+| right         | none          | renders items on the right side of the navbar
 
 ##### Example:
 
