@@ -10,7 +10,7 @@ Current css frameworks being supported: `Bulma`, `Bootstrap3`
 
 - Just include jQuery and `js/Render.js` at the bottom of your page.
 
-- Include a `<render type="bootstrap3"></render>` or `<render type="bootstrap3"></render>` in the header
+- Include a `<render type="bootstrap3"></render>` or `<render type="bulma"></render>` in the header
 
 Start with some of the modules below
 
